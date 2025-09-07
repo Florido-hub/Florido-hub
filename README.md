@@ -27,8 +27,3 @@
 </div>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Florido-hub/Florido-hub/output/snake.svg" alt="Snake animation" />
-
-###
