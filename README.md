@@ -10,7 +10,7 @@
 
 🎓 Estudante de **Ciência da Computação**  
 ☕ Desenvolvedor **Backend Java**  
-🧪 Estagiário em **QA / Engenharia de Qualidade de Software** na **AIR Company / Compass UOL**  
+🧪 Estagiário em **QA / Engenharia de Qualidade de Software** na **AIR Compass UOL**  
 🚀 Apaixonado por **Spring Boot, arquitetura de software, testes e tecnologia**
 
 ## Tecnologias e Ferramentas
@@ -36,6 +36,12 @@
 </div>
 
 ###
+
+## Estatisticas
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Florido-hub/Florido-hub/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ## Dados para contato
 
