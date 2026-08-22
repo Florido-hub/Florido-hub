@@ -49,6 +49,30 @@
 
 ###
 
+## Featured Projects
+
+### 🧪 API Quality Suite
+
+Developed as a challenge during a **QA Bootcamp**, this project is an automated API testing suite built with **Python and Pytest**.
+
+The suite includes test scenario coverage, **JSON Schema validation**, and a **GitHub Actions Continuous Integration workflow** to automate test execution. **Operator Coverage** was also applied as the method for measuring the test coverage of the API.
+
+This project allowed me to practice **API testing, test automation, schema validation, CI/CD, and Software Quality Engineering**.
+
+[View Project →](https://github.com/API_Quality_Suite)
+
+---
+
+### 🌐 DevConnect
+
+Originally developed as a project for my **Database course** and later expanded as a personal project, **DevConnect** is a social network REST API built with **Java and Spring Boot**, using **MongoDB** for data persistence.
+
+The project is still under development, with several improvements planned for future iterations, including expanding test coverage using the QA practices I have been learning, developing a user interface, and implementing **Redis caching** to help reduce application latency.
+
+The project represents my ongoing process of combining **backend development, database management, software testing, and performance optimization** in a single application.
+
+[View Project →](https://github.com/Florido-hub/DevConnect)
+
 ## Statistics
 
 <div data-importer="stats" align="left">
