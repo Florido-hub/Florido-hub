@@ -6,14 +6,14 @@
 
 ###
 
-## Olá! Eu sou o Flórido 👋
+## Hello! I'm Flórido 👋
 
-🎓 Estudante de **Ciência da Computação**  
-☕ Desenvolvedor **Backend Java**  
-🧪 Estagiário em **QA / Engenharia de Qualidade de Software** na **AIR Compass UOL**  
-🚀 Apaixonado por **Spring Boot, arquitetura de software, testes e tecnologia**
+🎓 Computer Science Student  
+☕ **Java Backend Developer**  
+🧪 **QA / Software Quality Engineering Intern** at **AIR Compass UOL**  
+🚀 Passionate about **Spring Boot, software architecture, software testing, and technology**
 
-## Tecnologias e Ferramentas
+## Technologies & Tools
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
@@ -35,25 +35,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
 </div>
 
+##### Hey! These are some of the technologies I have experience with and use in my projects. I'm always open to learning new tools and technologies whenever a project or challenge calls for it.
+
 ###
 
-## Estatisticas
+## Statistics
 
 <div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Florido-hub&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/Florido-hub/Florido-hub/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## Dados para contato
+## Contact me
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/floridodiniz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/floridodinizz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="floridodinizz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:floridodinizz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
