@@ -13,9 +13,19 @@
 🧪 **QA / Software Quality Engineering Intern** at **AIR Compass UOL**  
 🚀 Passionate about **Spring Boot, software architecture, software testing, and technology**
 
+## Currently Learning
+
+- ☕ Advanced Java & Spring Boot
+- 🏗️ Software Architecture & Design Patterns
+- 🧪 Software Testing & Quality Engineering
+- ☁️ Cloud Computing & AWS
+- 🤖 AI & LLM Applications
+
+###
+
 ## Technologies & Tools
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
@@ -42,13 +52,16 @@
 ## Statistics
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Florido-hub/Florido-hub/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Florido-hub/Florido-hub/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
 
 ## Contact me
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/floridodiniz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -61,3 +74,4 @@
 </div>
 
 ###
+
