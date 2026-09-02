@@ -26,6 +26,17 @@
 
 ###
 
+### 🤖 LLM DeepEval Suite
+
+Developed as a challenge during the **AWS AI FDE Driven Quality Engineering internship**, this project is an automated evaluation suite for an **LLM-based chatbot**, built with **DeepEval and Pytest**.
+
+The project includes a **Golden Dataset**, exploratory testing, automated evaluation using **Answer Relevancy, Faithfulness, and custom G-Eval metrics**, following the **LLM-as-a-Judge** approach. The evaluation results were used to analyze the chatbot's behavior and guide **prompt calibration**.
+
+This project allowed me to practice **LLM Evaluation, AI Quality Engineering, Golden Dataset creation, LLM-as-a-Judge, test automation, prompt calibration, and testing of non-deterministic systems**.
+
+[View Project →](https://github.com/Florido-hub/LLM_deepeval_Suite)
+
+
 ## Featured Projects
 
 ### 🧪 API Quality Suite
