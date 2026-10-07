@@ -23,6 +23,7 @@
 
 ###
 
+## Featured Projects
 
 ###
 
@@ -35,9 +36,6 @@ The project includes a **Golden Dataset**, exploratory testing, automated evalua
 This project allowed me to practice **LLM Evaluation, AI Quality Engineering, Golden Dataset creation, LLM-as-a-Judge, test automation, prompt calibration, and testing of non-deterministic systems**.
 
 [View Project →](https://github.com/Florido-hub/LLM_deepeval_Suite)
-
-
-## Featured Projects
 
 ### 🧪 API Quality Suite
 
